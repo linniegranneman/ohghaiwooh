@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ecuangaihe.devhints.cn/sitemap.xml
